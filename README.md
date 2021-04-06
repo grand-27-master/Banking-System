@@ -1,15 +1,13 @@
-# Banking
-GRIP@ Sparks Foundation  web development and designing internship Task-1 Basic Banking website 
+# Task : Basic Banking System   
+GRIP@ Sparks Foundation  web development and designing internship Task- Basic Banking website 
 The Sparks Foundation Tasks
 This repository contains the tasks that I completed while working as an intern for The Sparks Foundation.
 
 Internship Category - Web Development and Design
-Internship Duration - 1 Month ( January-2020 )
-Internship Type - Work from Home
+Internship Duration - 1 Month ( April-2021)
 
 
-
-# Task : Basic Banking System                                   
+                                
 ◇ Create a simple dynamic website which has the following specs.
 
 ◇ Start with creating a dummy data in database for upto 10
@@ -25,5 +23,3 @@ View all Customers .
 ◇ No Login Page. No User Creation. Only transfer of money
 between multiple users.
 
-◇ Host the website at 000webhost, github.io, heroku app or any
-other free hosting provider. Check in code in gitlab.
